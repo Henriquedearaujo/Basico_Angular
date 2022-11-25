@@ -8,3 +8,7 @@
 
 Utilizando back end fake
 
+### Curso feito pela plataforma [desenvolvedor.io](https://desenvolvedor.io/)
+> Instrutor - Eduardo Pires é fundador da plataforma desenvolvedor.io, arquiteto e desenvolvedor de software, palestrante e instrutor de treinamentos.
+
+
